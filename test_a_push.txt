@@ -1,0 +1,8 @@
+Just testing my push action ... I want to send this to edknorr/test-repo/ at GitHub:
+
+https://github.com/edknorr/test-repo
+
+... as a bunch of testing for my Coursera R Data Science Toolbox assignment.
+
+(I had trouble with this from git, so I'm getting extra practice after following the 
+course discussion board, of which I've made a copy.  See git_push_forum_instructions.docx.)
